@@ -10,11 +10,10 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "D U C K",
-    "PREFIX": "!",
+    "BOTNAME": "𝐄𝖗𝖎𝖈𝖐",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "100030751998443",
-        "100045305926798"
+        ""
     ],
     "DATABASE": {
         "sqlite": {
